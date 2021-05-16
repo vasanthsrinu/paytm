@@ -1,3 +1,7 @@
 this is vasanth kumar, and am the next millionare
-dreams tranforms into actions and actions transform into result
+<<<<<<< HEAD
+
+=======
+dont just simply dream, make it come true
+>>>>>>> development
 
